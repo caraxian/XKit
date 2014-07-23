@@ -16,7 +16,7 @@
 	margin-left: 260px;
 	opacity: 0.65;
 	cursor: pointer; 
-	
+	z-index:1;
 }
 
 #view-on-dash-back {
